@@ -28,7 +28,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ### Links
 
 - Solution URL: [Github](https://github.com/teguhrm/productcardcomponent)
-- Live Site URL: [Vercel](https://qrcode-phi.vercel.app/)
+- Live Site URL: [Vercel](https://productcardcomponent.vercel.app/)
 
 ## My process
 
