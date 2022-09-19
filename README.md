@@ -1,0 +1,46 @@
+# Frontend Mentor - QR code component solution
+
+This is a solution to the [QR code component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
+
+## Table of contents
+
+- [Overview](#overview)
+  - [Screenshot](#screenshot)
+  - [Links](#links)
+- [My process](#my-process)
+  - [Built with](#built-with)
+- [Author](#author)
+
+**Note: Delete this note and update the table of contents based on what sections you keep.**
+
+## Overview
+
+### Screenshot
+
+  <p>Dekstop Preview</p>
+  <img src="./screenshoot/Product Preview Card - Dekstop.png"
+         alt="Dekstop Preview">
+
+  <p>Mobile Preview</p>
+  <img src="./screenshoot/Product Preview Card - Mobile.png"
+         alt="Mobile Preview">
+
+### Links
+
+- Solution URL: [Github](https://github.com/teguhrm/productcardcomponent)
+- Live Site URL: [Vercel](https://qrcode-phi.vercel.app/)
+
+## My process
+
+### Built with
+
+- Semantic HTML5 markup
+- CSS custom properties
+- Flexbox
+- Image Responsive
+- Mobile-first workflow
+
+## Author
+
+- Frontend Mentor - [@teguhrm](https://www.frontendmentor.io/profile/teguhrm)
+
