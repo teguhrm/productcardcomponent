@@ -1,4 +1,4 @@
-# Frontend Mentor - QR code component solution
+# Frontend Mentor - Product Card Component solution
 
 This is a solution to the [Product Card Component challenge on Frontend Mentor](https://www.frontendmentor.io/solutions/product-card-component-tGjQUJnpB8). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
 
